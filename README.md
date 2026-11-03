@@ -164,40 +164,23 @@
 </p>
 
 </details>
-  
+
+
 
 <details>
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
+<summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact"
-      height="230px"/>
+      src="https://github-readme-activity-graph.vercel.app/graph?username=gacciojg&theme=github"
+      alt="Joaquin's GitHub Activity Graph"
+    />
   </a>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&langs_count=10&show_icons=true&locale=en&theme=tokyonight"
-    alt="Top Languages"
-    height="230px"/>
-
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 </p>
+
 </details>
 
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
-
- 
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
