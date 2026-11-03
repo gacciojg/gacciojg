@@ -40,7 +40,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-    <a href="mailto:joaquingaccio6@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&to=joaquingaccio6@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://github.com/gacciojg">
